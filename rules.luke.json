@@ -5,7 +5,8 @@
 			"pkillboredom"
 		],
 		"description": "Luke's rules list for TF2 Bot Detector.",
-		"title": "Luke's rules list"
+        "title": "Luke's rules list",
+        "update_url": "https://raw.githubusercontent.com/pkillboredom/luke-botdetector-rules/master/rules.luke.json"
 	},
 	"rules": [
 		{
